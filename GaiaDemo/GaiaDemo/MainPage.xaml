@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GaiaDemo.MainPage">
+
+    <StackLayout Orientation="Vertical"> 
+        <Label x:Name="lblToast" FontSize="18" HorizontalOptions="Fill" />
+
+        <StackLayout x:Name="layoutDevices" Orientation="Vertical" >
+            <Label Text="===System Devices===" HorizontalOptions="Fill" />
+            <ListView x:Name="lvSystemDevices" RowHeight="40" SeparatorColor="Black" />
+
+            <Label Text="===Scan Devices===" HorizontalOptions="Fill" />
+            <ListView x:Name="lvScanDevices" RowHeight="40" SeparatorColor="Black" ItemSelected="OnScanDevicesItemSelected" />
+
+            <Button x:Name="btnScan" Text="Scan" Clicked="OnScanClicked"/>            
+        </StackLayout>
+
+        <StackLayout x:Name="layoutDashboard" Orientation="Vertical" >
+            <Label x:Name="lblInfo" HorizontalOptions="Fill" FontSize="14"/>
+            <Button x:Name="btnLED" Text="LED" Clicked="OnLedClicked" />
+
+            <StackLayout x:Name="layoutRemote" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="btnVMinus" Text="Volume -" Clicked="OnVolumeMinusClicked"/>
+                    <Button x:Name="btnMute" Text="Mute" Clicked="OnMuteClicked"/>
+                    <Button x:Name="btnVPlus" Text="Volume +" Clicked="OnVolumePlusClicked"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="btnPlay" Text="Play" Clicked="OnPlayClicked"/>
+                    <Button x:Name="btnPause" Text="Pause" Clicked="OnPauseClicked"/>
+                    <Button x:Name="btnStop" Text="Stop" Clicked="OnStopClicked"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="btnPrev" Text="Previous" Clicked="OnPreviousClicked"/>
+                    <Button x:Name="btnNext" Text="Next" Clicked="OnNextClicked"/>
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout x:Name="layoutEQ" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                <Button x:Name="btnBass" Text="Bass boost" Clicked="OnBassBoostClicked"/>
+                <Button x:Name="btn3D" Text="3D" Clicked="On3DClicked"/>
+                <Button x:Name="btnDefault" Text="Default" Clicked="OnDefaultClicked" />
+                <Button x:Name="btnClassic" Text="Classic" Clicked="OnClassicClicked"/>
+                <Button x:Name="btnRock" Text="Rock" Clicked="OnRockClicked"/>
+                <Button x:Name="btnJazz" Text="Jazz" Clicked="OnJazzClicked"/>
+                <Button x:Name="btnFolk" Text="Folk" Clicked="OnFolkClicked"/>
+                <Button x:Name="btnPop" Text="Pop" Clicked="OnPopClicked"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+    
+
+</ContentPage>

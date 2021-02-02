@@ -1,0 +1,14 @@
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\bin\Debug\netstandard2.0\GaiaDemo.deps.json
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\bin\Debug\netstandard2.0\GaiaDemo.dll
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\bin\Debug\netstandard2.0\ref\GaiaDemo.dll
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\bin\Debug\netstandard2.0\GaiaDemo.pdb
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\GaiaDemo.csprojAssemblyReference.cache
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\GaiaDemo.AssemblyInfoInputs.cache
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\GaiaDemo.AssemblyInfo.cs
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\GaiaDemo.csproj.CoreCompileInputs.cache
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\GaiaDemo.dll
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\ref\GaiaDemo.dll
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\GaiaDemo.pdb
+D:\Download\Seafile\WS-Tom\03-Xamarin\03-Project\GaiaDemo\GaiaDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

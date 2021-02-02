@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i9PmNRcFcA3CF5B8cdYT3kSK27GNKGKDFMOylbrxOiY/MjSnhRKHMMJ6Aw7MKMO3YOuKx6SFb63hH4fhHNMxbw==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\Seafile\\WS-Tom\\03-Xamarin\\03-Project\\GaiaDemo\\GaiaDemo.iOS\\GaiaDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\plugin.ble\\2.1.1\\plugin.ble.2.1.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
